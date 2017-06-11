@@ -1,4 +1,4 @@
-faces = 1024;
+faces = 32;
 scale_factor = 0.3937; //convert mm to inches
 
 // cylinder
@@ -23,4 +23,4 @@ translate([0, 0, G]) {
 translate([A/2 * .75, 0, B]) cylinder(h = .01, d = A/10, center = false, $fn = faces);
 
 // text
-translate([A/2 * .45, 0, B]) rotate([0, 0, 90]) linear_extrude(height = .01) text("E5", size = .34, halign = "center", valign = "bottom");
+//translate([A/2 * .45, 0, B]) rotate([0, 0, 90]) linear_extrude(height = .01) text("E5", size = .34, halign = "center", valign = "bottom");
