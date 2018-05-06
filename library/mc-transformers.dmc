@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TC1-1T+
+D RF Transformer
+K
+F https://www.minicircuits.com/pdfs/TC1-1T+.pdf
+$ENDCMP
+#
+#End Doc Library
