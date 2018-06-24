@@ -1,3 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP SCP-4-1+
+D 4 Way-0° Power Splitter/Combiner
+K 4 Way-0° Power Splitter/Combiner
+F https://www.minicircuits.com/pdfs/SCP-4-1+.pdf
+$ENDCMP
+#
 #End Doc Library
